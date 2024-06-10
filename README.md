@@ -4,6 +4,8 @@ Stop-Ask-Questions-The-Stupid-Ways
 
 ## 短域名服务
 
+http://ydos.ymxer.com/
+
 + https://git.io/how-to-ask
 + https://git.io/asking-question
 + https://git.io/stop-stupid
