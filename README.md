@@ -13,7 +13,6 @@ http://ydos.ymxer.com/
 
 ## 你真的准备好了吗？
 
-![you-are-not-prepared.png](/images/you-are-not-prepared.png)
 
 > 感谢群友 `for you` 提供
 
@@ -51,7 +50,6 @@ http://ydos.ymxer.com/
 谢谢
 ```
 
-![manners-maketh-man.jpg](/images/manners-maketh-man-small.png)
 
 
 ## 学会描述问题
@@ -76,7 +74,6 @@ http://ydos.ymxer.com/
 
 ### 学会什么时候贴图
 
-![what-time-to-use-image.png](/images/what-time-to-use-image.png)
 
 像这种，IM 自动转义表情，贴出来的问题全是表情。
 
@@ -87,7 +84,6 @@ http://ydos.ymxer.com/
 在工作中， 你`@`的人可能会多问一句什么情况。 但是在 IM 聊天群里面，就没有这么好运气了。
 
 
-![stupid_02-conversation.png](/images/stupid_questions/stupid_02-conversation.png)
 
 如下很难吗？
 
@@ -96,21 +92,17 @@ http://ydos.ymxer.com/
 环境是: 环境是什么。
 ```
 
-![stupid_02-no-target.png](/images/stupid_questions/stupid_02-no-target.png)
 
 ### 学会什么时候贴文字
 
 
 ## 什么是弱智一样的提问
 
-![stupid_questions.png](/images/stupid_questions/stupid_questions.png)
 
 ## 萌新滚粗
 
-![baiduit.jpg](/images/baiduit.jpg)
 
 | 什么鬼？    | 咋回事？  | 怎么办？    | 救命啊！！       |
 |-------------|-------------|-------------|------------------|
-| 自己 google | 自己 google | 自己 google | 自己 google 了吗 |
+| 自己 bing | 自己 google | 自己 baidu | 自己 yandex 了吗 |
 
-![googleit.png](/images/googleit.png)
