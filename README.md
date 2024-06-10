@@ -1,4 +1,4 @@
-# 别像弱智一样提问
+# 别像弱智一样提问 | Not be YYY
 
 Stop-Ask-Questions-The-Stupid-Ways
 
