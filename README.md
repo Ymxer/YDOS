@@ -105,5 +105,5 @@ http://ydos.ymxer.com/
 
 | 什么鬼？    | 咋回事？  | 怎么办？    | 救命啊！！       |
 |-------------|-------------|-------------|------------------|
-| 自己 bing | 自己 google | 自己 baidu | 自己 yandex 了吗 |
+| 自己 bing(https://cn.bing.com) | 自己 google | 自己 baidu | 自己 yandex 了吗 |
 
