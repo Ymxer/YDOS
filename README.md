@@ -1,5 +1,5 @@
 https://ydos.ymxer.com/
-# 别像弱智一样提问 | Not be YYY
+# 别像弱智一样提问 | Not be YYY/YXDS
 
 Stop-Ask-Questions-The-Stupid-Ways & Not-Be-YXDS
 
