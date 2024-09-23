@@ -107,7 +107,8 @@ https://ydos.ymxer.com/
 |-------------|-------------|-------------|------------------|
 | 自己 [bing](https://cn.bing.com) | 自己 [google](https://www.google.com) | 自己 baidu | 自己 [yandex](https://yandex.ee) 了吗 |
 
-`@echo off
+```
+@echo off
 setlocal EnableDelayedExpansion
 
 :: 初始化全局变量
@@ -366,4 +367,5 @@ color a
 echo 您已经设置 %shutdown%秒 后关机
 pause
 goto admin
-endlocal`
+endlocal
+```
