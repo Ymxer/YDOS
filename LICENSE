@@ -1,6 +1,6 @@
 BSD 2-Clause License
 
-Copyright (c) 2023, Ymxer
+Copyright (c) 2024, Ymxer
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
@@ -22,3 +22,24 @@ SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
 CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+允许以源码和二进制形式再分发和使用，无论是否修改
+允许在满足以下条件的情况下，以源代码和二进制形式进行再分发和使用：
+
+1. 重新分发源代码必须保留上述版权声明、本条件清单和以下免责声明。
+   条件清单和以下免责声明。
+
+2. 二进制形式的再分发必须复制上述版权声明、
+   2. 以二进制形式重新发行时，必须在随发行版提供的文档和/或其它资料中复制上述版权声明、本条件清单和以下免责声明。
+   和/或随发行版提供的其他材料中复制上述版权声明、本条件清单和以下免责声明。
+
+本软件由版权所有者和贡献者 “按原样 ”提供。
+任何明示或暗示的保证，包括但不限于
+任何明示或默示保证，包括但不限于适销性和适用于特定用途的默示保证，一概免责。
+免责。在任何情况下，版权所有者或贡献者均不对以下情况负责
+对任何直接、间接、附带、特殊、惩戒性或后果性损害赔偿（包括但不限于任何直接、 间接、附带、特殊、惩戒性或后果性损害赔偿）不承担任何责任。
+任何直接、间接、附带、特殊、惩戒性或后果性损害赔偿（包括但不限于采购替代商品或服
+使用、数据或利润损失；或业务中断），无论其原因如何，也无论其责任理论如何，均不承担任何责任。
+或侵权行为（包括疏忽或其他）造成的损失、
+或民事侵权行为（包括疏忽或其他）引起的任何责任，无论其原因如何，也无论其理论如何。
+即使已被告知可能发生此类损害。
